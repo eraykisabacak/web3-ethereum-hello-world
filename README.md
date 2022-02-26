@@ -4,12 +4,11 @@
 
 This my first smart contract. My goal is to learn solidity. With the smart contract, we can change the message in the contract.
 
-![](https://github.com/eraykisabacak/web3-ethereum-hello-world/tree/main/images/Screenshot_1.jpg)
+![](https://github.com/eraykisabacak/web3-ethereum-hello-world/blob/main/images/Screenshot_1.jpg)
 
-![](https://github.com/eraykisabacak/web3-ethereum-hello-world/tree/main/images/Screenshot_2.jpg)
+![](https://github.com/eraykisabacak/web3-ethereum-hello-world/blob/main/images/Screenshot_2.jpg)
 
-![](https://github.com/eraykisabacak/web3-ethereum-hello-world/tree/main/images/Screenshot_3.jpg)
-
+![](https://github.com/eraykisabacak/web3-ethereum-hello-world/blob/main/images/Screenshot_3.jpg)
 ## Compile Contract
 ````
 npx hardhat compile
